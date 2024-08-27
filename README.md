@@ -1,11 +1,11 @@
-![Screenshot 2024-08-27 154533](https://github.com/user-attachments/assets/2aeb84cd-e80d-4ad6-b054-666f30120361)
-
-
 # Uni-Teacher-System
 Here's a sample `README.md` file for your project:
 
 ```markdown
 # University System using Solidity
+
+![Screenshot 2024-08-27 154533](https://github.com/user-attachments/assets/54aa8d0a-af78-4192-a693-3ff6a26fbd40)
+
 
 ## Vision
 The University System smart contract aims to revolutionize the way universities manage and track their faculty's performance, attendance, and professional growth. By leveraging blockchain technology, this system provides a transparent, decentralized, and tamper-proof solution that ensures the integrity of academic records and incentivizes good service through a token-based reward system.
