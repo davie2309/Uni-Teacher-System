@@ -43,7 +43,7 @@ The University System smart contract aims to revolutionize the way universities 
 ```
 
 ## Contract Address
-The smart contract is deployed on the Ethereum testnet at the following address:
+The smart contract is deployed on the Ethereum testnet at the following address: 0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
 
 ```
 0xYourContractAddressHere
