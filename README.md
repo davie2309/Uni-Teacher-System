@@ -1,3 +1,6 @@
+![Screenshot 2024-08-27 154533](https://github.com/user-attachments/assets/2aeb84cd-e80d-4ad6-b054-666f30120361)
+
+
 # Uni-Teacher-System
 Here's a sample `README.md` file for your project:
 
