@@ -4,6 +4,7 @@ Here's a sample `README.md` file for your project:
 ```markdown
 # University System using Solidity
 
+
 ![Screenshot 2024-08-27 154533](https://github.com/user-attachments/assets/54aa8d0a-af78-4192-a693-3ff6a26fbd40)
 
 
@@ -47,6 +48,10 @@ The University System smart contract aims to revolutionize the way universities 
 
 ## Contract Address
 The smart contract is deployed on the Ethereum testnet at the following address: 0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
+
+
+![Screenshot 2024-08-27 155159](https://github.com/user-attachments/assets/10343434-eb49-43ed-8a0f-92345dd89181)
+
 
 ```
 0xYourContractAddressHere
