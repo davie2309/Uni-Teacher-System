@@ -5,7 +5,8 @@ Here's a sample `README.md` file for your project:
 # University System using Solidity
 
 
-"C:\Users\David\Pictures\Screenshots\Screenshot 2024-08-27 154533.png"
+![Screenshot 2024-08-27 154533](https://github.com/user-attachments/assets/9d6d4773-e4a6-45a4-b384-45b365836bc7)
+
 
 
 ## Vision
@@ -50,7 +51,7 @@ The University System smart contract aims to revolutionize the way universities 
 The smart contract is deployed on the Ethereum testnet at the following address: 0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
 
 
-"C:\Users\David\Pictures\Screenshots\Screenshot 2024-08-27 155159.png"
+
 
 
 ```
