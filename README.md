@@ -3,8 +3,6 @@ Here's a sample `README.md` file for your project:
 
 ```markdown
 # University System using Solidity
-
-
 ![Screenshot 2024-08-27 154533](https://github.com/user-attachments/assets/9d6d4773-e4a6-45a4-b384-45b365836bc7)
 
 
